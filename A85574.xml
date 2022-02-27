@@ -1,0 +1,180 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Great and famous sea-fight between the English and Dutch on Friday last, between the coast of Norfollk and Essex; with the particulars thereof, the event and sucess; and the great execution done by key-shot, long chains, and bolts of iron; divers having their legs and arms torn asunder. Also the number of Holland ships sunk &amp; taken, that came forth with letters of mart, together with the number of prisoners; their examination and confession; and the strange and wonderful speech of their admiral upon his engaging of the English. Likewise, the names of the new generals chosen by the Parliament; the coming up of the great fleet of colliers &amp; propositions therupon to the Lord Cromwel, in behalf of the poor citizens of London.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85574</idno>
+            <idno type="STC">Wing G1650</idno>
+            <idno type="STC">Thomason E683_8</idno>
+            <idno type="STC">ESTC R206811</idno>
+            <idno type="EEBO-CITATION">99865917</idno>
+            <idno type="PROQUEST">99865917</idno>
+            <idno type="VID">166371</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85574)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166371)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 105:E683[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Great and famous sea-fight between the English and Dutch on Friday last, between the coast of Norfollk and Essex; with the particulars thereof, the event and sucess; and the great execution done by key-shot, long chains, and bolts of iron; divers having their legs and arms torn asunder. Also the number of Holland ships sunk &amp; taken, that came forth with letters of mart, together with the number of prisoners; their examination and confession; and the strange and wonderful speech of their admiral upon his engaging of the English. Likewise, the names of the new generals chosen by the Parliament; the coming up of the great fleet of colliers &amp; propositions therupon to the Lord Cromwel, in behalf of the poor citizens of London.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for C. Hancock.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Nou. 30.th.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Naval battles --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166371:1" rendition="simple:additions"/>
+            <p>A great and famous SEA-FIGHT Between the ENGLISH and DUTCH ON Friday laſt, between the Coaſt of Nor<g ref="char:EOLhyphen"/>folk and Eſſex; With the particulars thereof, the event and ſucceſs; and the great execution done by Key-ſhot, long Chains, and Bolts of Iron; divers having their legs and armes torn and rent aſunder.</p>
+            <p>Alſo the number of Holland ſhips ſunk &amp; taken, that came forth with Letters of Mart, to<g ref="char:EOLhyphen"/>gether with the number of priſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ners; their exa<g ref="char:EOLhyphen"/>mination a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d confeſſion; and the ſtra<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ge and wonderful ſpeech of their Admiral upon his engaging of the Engliſh.</p>
+            <p>Likewiſe, the Names of the new Generals choſen by the Parliament; the coming up of the great fleet of Collie<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s &amp; Propoſitions ther-upon to the Lord <hi>Cromwel,</hi> in behalf of the poor Citizens of <hi>London.</hi>
+            </p>
+            <p>
+               <add>Nou. 30<hi rend="sup">th.</hi>.</add> 
+               <hi>London,</hi> Printed for <hi>C. Hancock.</hi> 1652.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:166371:2"/>
+            <pb n="3" facs="tcp:166371:2"/>
+            <head>A dangerous ſea-fight neer the Eaſtern Coaſt, on Friday laſt between the Eng<g ref="char:EOLhyphen"/>liſh and the Dutch; with the particulars thereof, and the manner of the engage<g ref="char:EOLhyphen"/>ment &amp;c.</head>
+            <opener>
+               <salute>Right Honorable,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>His morning we received advertiſements, of a great engagement (yeſterday) neer the Eaſtern Channel, between the Eng<g ref="char:EOLhyphen"/>liſh and Dutch; the manner thus: The States ſhips that were in this Harbour, having b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en ſupplied with ſuch neceſſaries which they wa<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ted, on the 23 inſtant, put forth to ſea; but they had not long rode upon the Neptune Ocean; but they made a diſcovery of about eleven ſail of Flemmins, who
+<pb n="4" facs="tcp:166371:3"/>had Letters of Mart from the States of Holland, to ſight any ſhips whatſoever, belonging to the Re<g ref="char:EOLhyphen"/>publique of England, and to make prize and enjoy all whom they could take, which Pyratical Act, pro<g ref="char:EOLhyphen"/>duced them the Name of Free-booters; but indeed this Title was at laſt dear-bought; for, the Engliſh with a proſperous gale, bearing cloſe up to them, gave them ſuch a Volley, that it made even the wind and waves ſeem to conteſt for Victory; yet the Fle<g ref="char:EOLhyphen"/>mins perceiving that they were odds ſufficient, be<g ref="char:EOLhyphen"/>ing eleven to two, choſe rather to embrace an hono<g ref="char:EOLhyphen"/>rable diſpute, then to yield upon ignoble and un<g ref="char:EOLhyphen"/>worthy terms; and truly, to deal plainly, and im<g ref="char:EOLhyphen"/>partially, give the Devil his due, they fought very gallantly, till at laſt, our undanted Engliſh Hectors, ſeeing nothing would daunt them, and perceiving the Victory ſomewhat dubious, reſolved to fight it out either to Death or Conqueſt; and thereupon mutually reſolved to live and die together; in or<g ref="char:EOLhyphen"/>der whereunto, ſo cloſe and thick did they ply the enemy with Key-ſhot, long Chains, and Bolts of I<g ref="char:EOLhyphen"/>ron, tha<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> divers of the Dutch were inforced to make the Sea their Tomb; Others, were made lower by the head, by the matchleſs force of Powder, and links of Iron; ſome had their arms and legs ſhot off; A<g ref="char:EOLhyphen"/>mongſt
+<pb n="5" facs="tcp:166371:3"/>the reſt, their Captain General Myn Heer Galen (ſon to Admiral Van-Galen in the Streights) is lamentably diſmembred; for, as he adventured himſelf in the greateſt heat of action, ſo did he ſu<g ref="char:EOLhyphen"/>ſtain the greateſt ſhare and ſorrow in affliction, in<g ref="char:EOLhyphen"/>ſomuch, that moſt of his wounds are conceived to be mortal. He loſs will be much lamented; for 'tis ſaid he was a man of ſingular knowledge and judgment in Martial Affairs, and the Art of Naviga<g ref="char:EOLhyphen"/>tion; yet many of his own men condemn him for that Heathen-like expreſſion, made uſe of and ſe<g ref="char:EOLhyphen"/>conded by Admiral De-witte, as he was engaging lately againſt the Engliſh, I (ſaid he) will lead on the fleet againſt the Engliſh, let the Devil bring them off again.</p>
+            <p>Now whether it was an Engliſh or Dutch Devil I know not: I have better thoughts, and hope Al<g ref="char:EOLhyphen"/>mighty God, who hath delivered us in all our ſtraits and extremities, will now give us a good iſ<g ref="char:EOLhyphen"/>ſue of this War, and add further links of his Mercy to thoſe who deſire to extoll and glorifie his name; for indeed even in this appears his loving kindneſs, who was pleaſed to crown the heads of his ſervants, with triumphant and proſperous ſucceſs, by van<g ref="char:EOLhyphen"/>quiſhing the proud enemy, and taking about 300
+<pb n="6" facs="tcp:166371:4"/>priſoners, and 4 ſhips, with little loſs. The reſt got off, being much rent and torn; but we hear ſince that two of them are ſunk.</p>
+            <closer>
+               <dateline>Harwich <date>27 Novemb. 1652.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>A Letter from Holland.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>NOthing but fire and ſword will ſerve to allay the burning Choler of the Princely party, who are grown to ſuch an extreme height of arrogancy, That down with your Parliament now they cry, and ſay this is the time to ſet their poor diſtreſ<g ref="char:EOLhyphen"/>ſed Lord and Maſter in his Royal Saddle, and reſtore him to his diſ-joynted Throne. But alas, it is not their high Rants, nor their quaffing of full bowls, that can bring to paſs ſuch mighty Revolutions, though
+<pb n="7" facs="tcp:166371:4"/>they give out, that all Emperours, Kings, and Princes in Europe, will be inſtrumen<g ref="char:EOLhyphen"/>tal for his Reſtauration; but indeed by the Eye of Reaſon, we muſt conclude this to be incredible, if we ſeriouſly weigh and con<g ref="char:EOLhyphen"/>ſider the ſeveral I inks of his infinite mercy, towards your Parliament and Army, and how he hath ſufficiently manifeſted his own will and pleaſure, with that loud Declarati<g ref="char:EOLhyphen"/>on from Heaven, ſo mightily ſet forth in the late ſudden Revolutions and Actions, before, and at Worceſter; whereby he un<g ref="char:EOLhyphen"/>queſtionably appeares to have given a full and final Deciſion of the Controverſie, and ſeemes as it were with his own finger, to poiut out to all the World his Reſoluti<g ref="char:EOLhyphen"/>ons for England.</p>
+            <p>The Hollander ſollicits the French King, for a conjunction between France and the United Provinces, of which endeavors the
+<pb n="8" facs="tcp:166371:5"/>iſſue is like to be fruitleſs. Yet that which bears up their drooping ſpirits, is, the with<g ref="char:EOLhyphen"/>drawing the Spaniſh forces out of France, the leaving of the Prince of Conde onely upon a poſture of defence with ten thou<g ref="char:EOLhyphen"/>ſand, and the advance of Gen Thuren with the Kings Army againſt him with eighteen thouſand horſe and foot.</p>
+            <p>By which means, the Princely party re<g ref="char:EOLhyphen"/>tain ſome hopes of the advancing of their intereſt.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <dateline>Amſterdam <date>27 Novemb. ſtilo novo.</date>
+                     </dateline>
+                  </opener>
+                  <p>The great fleet from Newcaſtle is now da<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ly ex<g ref="char:EOLhyphen"/>pected with Coles; ſome are come up as far as Har<g ref="char:EOLhyphen"/>widge and Ipſwich, and care is taken to abate the in<g ref="char:EOLhyphen"/>tollerable and high price. Likewiſe, ſome provi<g ref="char:EOLhyphen"/>ſions are making for the poor in every Pariſh, and certain Propoſition have been preſented to the Ge<g ref="char:EOLhyphen"/>neral, by ſome members of the Army, for 4000 bu<g ref="char:EOLhyphen"/>ſhel of Coals to be diſtributed to the Poor in every Pariſh. An excellent Work of Mercy and Charity.</p>
+                  <p>The Parl. have voted Gen. Blake, Lie. Gen. Monk, and Maj. Gen-Dean, to be Generals of the Fleets for the year enſuing.</p>
+               </body>
+            </floatingText>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
